@@ -1,3 +1,3 @@
 # Unterrichtsorganisation
 Lernfeld 10-12 Projekt
-Jonas Pflug, Simon Klein, Sergej Alijai
+Jonas Pflug, Simon Klein, Sergei Aliaj
